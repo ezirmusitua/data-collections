@@ -9,3 +9,4 @@ Dataset from internet
 7. [Mobile App User](http://soolinglim.com/datasets/)  
 8. [Amazon Product Data](http://jmcauley.ucsd.edu/data/amazon/links.html)  
 9. [Book Crossing](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)  
+10. [Microsoft Open Data](https://msropendata.com/)  
