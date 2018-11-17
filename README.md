@@ -31,4 +31,6 @@ Dataset from internet
 29. [Financial Times](https://markets.ft.com/data/)
 30. [Open Corporate](https://opencorporates.com/info/using_our_data)  
 31. [USDA Food Composition Databases](https://ndb.nal.usda.gov/ndb/)  
+32. [Chinese ISP IP](http://ipcn.chacuo.net/)  
+33. [Visual Genome](https://visualgenome.org/)  
 
