@@ -34,3 +34,4 @@ Dataset from internet
 32. [Chinese ISP IP](http://ipcn.chacuo.net/)  
 33. [Visual Genome](https://visualgenome.org/)  
 34. [NSFW data source URLs](https://github.com/EBazarov/nsfw_data_source_urls)  
+35. [Novel Coronavirus 2019 time series data](https://github.com/datasets/covid-19?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly)
